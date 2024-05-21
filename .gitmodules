@@ -1,3 +1,4 @@
 [submodule "scrips"]
 	path = scrips
 	url = git@github.com:BimaSakti95/belajar-git-submodule.git
+	branch = release
